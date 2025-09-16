@@ -1,7 +1,7 @@
 
 ---
 <h1 align="center">Luísa Lério Leite</h1>
-<p align="center">° Estudante de Ciência da Computação / IMT - Instituto Mauá de Tecnologia(2025 - 2028)<br/>
+<p align="center">° Estudante de Ciência da Computação / IMT - Instituto Mauá de Tecnologia(2024 - 2027)<br/>
   ° São Paulo, SP</p>
 
 <br/>
